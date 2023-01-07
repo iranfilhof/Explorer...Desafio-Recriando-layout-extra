@@ -1,0 +1,56 @@
+
+body {
+  font-family: 'Open sans', sans-serif;
+  color: hsla(0, 0%, 51%, 1);
+  font-size: 15px;
+  margin: 0;
+}
+
+main {
+  text-align: center;
+  width: 626px;
+  margin: 64px auto 64px;
+}
+
+h1 {
+  font-family: 'Dosis', sans-serif;
+  font-size: 32px;
+  color: hsla(245, 17%, 29%, 1);
+}
+
+#title {
+  color: hsla(295, 100%, 57%, 1);
+}
+
+#text {
+  color: hsla(245, 17%, 29%, 1);
+}
+
+#uppercase {
+  color: hsla(245, 17%, 29%, 1);
+}
+
+.line {
+  width: 391px;
+  border: 1px solid #ECEFF2;
+  margin: 0 auto 16px;
+}
+
+footer {
+  text-align: center;
+  color: #3F3D56;
+  
+  display: flex;
+  justify-content: center;
+  gap: 42px;
+  margin-bottom: 41px;
+}
+
+footer a {
+  text-decoration: none;
+}
+
+#wave {
+  width: 100%;
+  position: absolute;
+}
